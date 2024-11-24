@@ -310,8 +310,4 @@ This playbook serves as a practical resource for performing a wide range of AWS 
 
 # Author
 
-*Your Name*
-
-Cloud Engineer | AWS Certified Solutions Architect
-
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+Alexander Batker
